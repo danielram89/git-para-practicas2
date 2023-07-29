@@ -7,4 +7,4 @@ Esto es un parrafo
 - Confirmar los cambios (git commit)
 - Enviar los cambios a Github (git pull)
 
-Es todo!
+Es todo y ya lo tenemos
